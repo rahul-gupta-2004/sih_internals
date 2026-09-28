@@ -1,5 +1,8 @@
 streamlit
 ollama
-Pillow
+chromadb
+pypdf
 python-docx
-psutil
+openpyxl
+pillow
+pandas

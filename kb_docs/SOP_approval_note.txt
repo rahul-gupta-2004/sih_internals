@@ -1,0 +1,14 @@
+STANDARD OPERATING PROCEDURE — APPROVAL NOTE FORMAT
+Document ID: SOP-2024-017
+
+All approval notes must contain:
+1. Reference number and date
+2. Subject line stating the equipment or activity
+3. Background paragraph explaining the need
+4. Technical justification with relevant standards cited
+5. Financial implications if any
+6. Recommendation and requested approval
+7. Signature block with designation
+
+Approval notes for maintenance shutdowns must reference the equipment tag number
+(e.g., P-101, V-204) and attach the inspection report summary.
