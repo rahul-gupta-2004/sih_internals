@@ -1,5 +1,0 @@
-MAINTENANCE GUIDELINES FOR ROTATING EQUIPMENT
-Pumps must be inspected every 4000 running hours or 6 months, whichever is earlier.
-Vibration levels above 4.5 mm/s RMS require immediate shutdown.
-Pump P-101 is a centrifugal pump in the crude distillation unit.
-All shutdowns require an approval note signed by the Maintenance Head.

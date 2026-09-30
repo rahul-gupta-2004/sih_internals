@@ -1,8 +1,0 @@
-streamlit
-ollama
-chromadb
-pypdf
-python-docx
-openpyxl
-pillow
-pandas
